@@ -4,5 +4,9 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-require('coffee-script')
-module.exports = require('./hydrate.coffee')
+./spec/SpecHelper.js
+./spec/HydrateSpec.js
+./lib/jasmine-1.3.1/jasmine.js
+./lib/jasmine-1.3.1/jasmine-html.js
+./valid_targets.txt
+./src/hydrate-bootstrap.js
